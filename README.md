@@ -29,7 +29,6 @@ O objetivo deste projeto é aprender e consolidar conceitos de desenvolvimento d
 - Adicionar barra de rolagem
 - Implementar dark mode
 - Criar atalhos de teclado como Ctrl+S e Ctrl+Q
-- Permitir abrir arquivos existentes
 - Adicionar barra de ferramentas
 - Implementar contador de palavras
 - Empacotar o aplicativo como executável para Windows e Linux
